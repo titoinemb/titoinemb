@@ -11,9 +11,9 @@
 
 ## Projects
 
-<!--### [Project 1: Machine Learning for Predictive Analytics](https://github.com/titoinemb/project1)
+<!--### [Project 1: music in youtube downloader](https://github.com/titoinemb/project1)
 - Description: A project using machine learning algorithms to predict future trends based on historical data.
-- Technologies: Python, TensorFlow, Pandas.-->
+- Technologies: JavaScript, NodeJS, Electron.-->
 
 ## Connect with Me
 
