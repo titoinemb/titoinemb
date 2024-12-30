@@ -11,9 +11,9 @@
 
 ## Projects
 
-<!--### [Project 1: download_mp3_youtube]([https://github.com/titoinemb/project1](https://github.com/titoinemb/download_mp3_youtube))
+### [Project 1: download_mp3_youtube]([https://github.com/titoinemb/project1](https://github.com/titoinemb/download_mp3_youtube))
 - Description: This application allows you to install playlists as well as a list of videos/playlists of music from YouTube.
-- Technologies: JavaScript, NodeJS, Electron.-->
+- Technologies: JavaScript, NodeJS, Electron.
 
 ## Connect with Me
 
