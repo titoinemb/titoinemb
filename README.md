@@ -17,5 +17,5 @@
 
 ## Connect with Me
 
-[![instagram](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram)]([https://www.linkedin.com/in/your-linkedin](https://www.instagram.com/titoinemb))
+[![instagram](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/titoinemb)
 [![Twitter](https://img.shields.io/badge/X-333333?style=flat&logo=x)](https://x.com/titoinemb)
