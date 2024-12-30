@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Titoine 👋
 
-<!--
-**titoinemb/titoinemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [Ig](https://www.instagram.com/titoinemb)
+- ⚡ Fun fact: I love playing chess in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titoinemb&show_icons=true&theme=radical)
+
+## Projects
+
+<!--### [Project 1: Machine Learning for Predictive Analytics](https://github.com/titoinemb/project1)
+- Description: A project using machine learning algorithms to predict future trends based on historical data.
+- Technologies: Python, TensorFlow, Pandas.-->
+
+## Connect with Me
+
+[![instagram](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram)]([https://www.linkedin.com/in/your-linkedin](https://www.instagram.com/titoinemb))
+[![Twitter](https://img.shields.io/badge/X-333333?style=flat&logo=x)](https://x.com/titoinemb)
