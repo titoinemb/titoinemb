@@ -31,4 +31,4 @@ Développeur passionné depuis l'âge de 13 ans, je combine une solide expérien
 ![TS-Node](https://img.shields.io/badge/TS--Node-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Crypto-000000?style=flat-square&logo=javascript&logoColor=white)
 
-N'hésite pas à me contacter si tu veux échanger sur le développement ou tout autre sujet ! 😊
+N'hésite pas à me contacter par email si tu veux échanger sur le développement ou tout autre sujet ! 😊
