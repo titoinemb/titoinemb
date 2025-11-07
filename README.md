@@ -1,6 +1,6 @@
 # Bonjour ! 👋
 
-Développeur passionné depuis l'âge de 13 ans, je combine une solide expérience en programmation et en développement web. Originaire de France et vivant au Canada depuis mes 12 ans, je me spécialise principalement dans le développement backend, où j'excelle. Ci-dessous, vous trouverez les principaux langages et outils que j'utilise quotidiennement.
+Développeur passionné depuis l'âge de 13 ans, je combine une bonne expérience en programmation et en développement web. Originaire de France et vivant au Canada depuis mes 12 ans, je me spécialise principalement dans le développement backend, où j'excelle. Ci-dessous, vous trouverez les principaux langages et outils que j'utilise quotidiennement.
 
 ## Les principaux outils et langages que j'utilise régulièrement
 ![Pug](https://camo.githubusercontent.com/08f49c09fcecfc748b71b6e5ba56dd352bbb2fc0fc4696ae781914737589b11c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5075672d4138363435343f7374796c653d666c61742d737175617265266c6f676f3d707567266c6f676f436f6c6f723d7768697465)
