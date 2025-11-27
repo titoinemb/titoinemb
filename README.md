@@ -14,6 +14,7 @@ Développeur passionné depuis l'âge de 13 ans, je combine une bonne expérienc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 N'hésite pas à me contacter par email si tu veux échanger sur le développement ou tout autre sujet ! 😊
