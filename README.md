@@ -16,5 +16,10 @@ Développeur passionné depuis l'âge de 13 ans, je combine une bonne expérienc
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
+## Profile stats
+![Github Stats](https://greptile-stats.vercel.app/api/widget/titoinemb/stats) <br />
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/titoinemb/contributions) <br />
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/titoinemb/highlights) <br /> 
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/titoinemb/archtype) <br />
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/titoinemb/quirk) <br />
 N'hésite pas à me contacter par email si tu veux échanger sur le développement ou tout autre sujet ! 😊
