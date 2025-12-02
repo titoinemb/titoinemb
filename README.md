@@ -2,7 +2,7 @@
 
 Je m'appelle Titoine et je suis née en France. À l'âge de 12 ans, j'ai déménagé au Canada, où j'ai commencé à explorer ma passion pour la technologie et le développement. À 13 ans, j'ai commencé à coder, ce qui m'a permis d'acquérir des compétences précieuses et une solide expérience en développement web.
 
-Mon expertise s'est particulièrement développée en backend, où je me sens le plus à l'aise pour résoudre des problèmes complexes et créer des solutions efficaces. Avec une approche axée sur le détail et un engagement constant envers l'apprentissage, je continue à élargir mes connaissances et à développer des projets qui reflètent ma passion pour le code. Ci-dessous, vous trouverez les principaux langages et outils que j'utilise quotidiennement. (cest bien ce text)
+Mon expertise s'est particulièrement développée en backend, où je me sens le plus à l'aise pour résoudre des problèmes complexes et créer des solutions efficaces. Avec une approche axée sur le détail et un engagement constant envers l'apprentissage, je continue à élargir mes connaissances et à développer des projets qui reflètent ma passion pour le code. Ci-dessous, vous trouverez les principaux langages et outils que j'utilise quotidiennement.
 
 ## Les principaux outils et langages que j'utilise régulièrement
 ![Ruby](https://camo.githubusercontent.com/6c41a840e943a7f0d7ae22524b249c7b4519a6a0881f8c2cbbe07b1c053d8b83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)
