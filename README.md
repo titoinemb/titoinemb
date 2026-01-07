@@ -5,9 +5,9 @@ Je m'appelle Titoine et je suis née en France. À l'âge de 12 ans, j'ai démé
 Mon expertise s'est particulièrement développée en backend, où je me sens le plus à l'aise pour résoudre des problèmes complexes et créer des solutions efficaces. Avec une approche axée sur le détail et un engagement constant envers l'apprentissage, je continue à élargir mes connaissances et à développer des projets qui reflètent ma passion pour le code. Ci-dessous, vous trouverez les principaux langages et outils que j'utilise quotidiennement.
 
 ## Les principaux outils et langages que j'utilise régulièrement
-![Ruby](https://camo.githubusercontent.com/6c41a840e943a7f0d7ae22524b249c7b4519a6a0881f8c2cbbe07b1c053d8b83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465)
-![TypeScript](https://camo.githubusercontent.com/6dbef1ca6166bfbfe91c0eebdcf1eae67f3b80dee8bcad760902e0dfc3ac9d06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![SCSS](https://camo.githubusercontent.com/4c0907124d278c8f6a0d77908524d2fc855c50bbe3be0111b8978cf01c4f7852/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534353532d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)
+![Ruby](https://img.shields.io/badge/Ruby-CC3432?style=flat-square&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-C36399?style=flat-square&logo=sass&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
